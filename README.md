@@ -2,7 +2,6 @@
 
 [![Paper]()
 [![Conference]()
-[![Poster]()
 </div>
 
 **Authors:**
