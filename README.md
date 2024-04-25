@@ -10,6 +10,18 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install -r requirements.txt
 ```
 
-## Steps
-
+## Dataset
+The dataset used in this project has the following structure.
+```bash
+-- data
+   |-- raw
+   |   |-- raw
+   |   |-- preprocessed
+   |-- ROI
+   |   |-- PeripancreaticEdema
+   |   |-- Pancreas
+   |-- ROI_slices
+   |   |-- PeripancreaticEdema
+   |   |-- Pancreas
+```
 ## Citations
