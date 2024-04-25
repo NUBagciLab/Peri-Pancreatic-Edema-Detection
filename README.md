@@ -24,4 +24,11 @@ The dataset used in this project has the following structure.
    |   |-- PeripancreaticEdema
    |   |-- Pancreas
 ```
+
+## Source code changes
+Four models was redefined in the pytorch source code. Modifyied source code is also included.
+These code should be put as the following path:
+```bash
+path/to/your/torchvision/model/redefined_model.py
+```
 ## Citations
