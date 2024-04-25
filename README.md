@@ -13,9 +13,12 @@ Amir Borhani<sup>1</sup>, Baris Turkbey<sup>2</sup>, Alpay Medetalibeyoglu<sup>1
 
 **Affiliations:** 
 
-<sup>1</sup> Machine & Hybrid Intelligence Lab, Northwestern University 
+<sup>1</sup> Machine & Hybrid Intelligence Lab, Northwestern University
+
 <sup>2</sup> National Cancer Institute
+
 <sup>3</sup> University of Illionis at Chicago  
+
 <sup>4</sup> Indiana University  
 
 ## Abstract
