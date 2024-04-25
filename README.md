@@ -3,7 +3,12 @@
 ## Abstract
 ![Workflow](https://github.com/NUBagciLab/Peri-Pancreatic-Edema-Detection/blob/main/Fig1.jpg)
 
-## Environment
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+```bash
+pip install -r requirements.txt
+```
 
 ## Steps
 
