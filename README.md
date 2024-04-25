@@ -1,5 +1,23 @@
 # Detection of Peri-Pancreatic Edema using Deep Learning and Radiomics Techniques
 
+[![Paper]()
+[![Conference]()
+[![Poster]()
+</div>
+
+**Authors:**
+
+-Ziliang Hong<sup>3</sup>, Debesh Jha1<sup>1</sup>, Koushik Biswas<sup>1</sup>, Zheyuan Zhang<sup>1</sup>, Yury Velichko<sup>1</sup>, Cemal Yazici<sup>3</sup>, Temel Tirkes<sup>4</sup>,
+Amir Borhani<sup>1</sup>, Baris Turkbey<sup>2</sup>, Alpay Medetalibeyoglu<sup>1</sup>, Gorkem Durak<sup>1</sup>, Ulas Bagci<sup>1</sup>
+
+
+**Affiliations:** 
+
+<sup>1</sup> Machine & Hybrid Intelligence Lab, Northwestern University 
+<sup>2</sup> National Cancer Institute
+<sup>3</sup> University of Illionis at Chicago  
+<sup>4</sup> Indiana University  
+
 ## Abstract
 ![Workflow](https://github.com/NUBagciLab/Peri-Pancreatic-Edema-Detection/blob/main/Fig1.jpg)
 
