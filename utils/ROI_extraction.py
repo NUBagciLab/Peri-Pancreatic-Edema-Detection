@@ -136,9 +136,9 @@ def img_to_roi(image_path,segmentation_path,save_path,scale=0.1):
 
 def main():
 
-    image_dir = "/data/Ziliang/IPMN/t2/preprocessed"
-    mask_dir = "/data/Ziliang/IPMN/t2_segmentation/raw"
-    roi_dir = "/data/Ziliang/IPMN/t1_ROI"
+    image_dir = "/path/of/nii/data"
+    mask_dir = "/path/of/sgementation"
+    roi_dir = "/roi/save/path"
 
     n = 107
     save_file = np.empty([1,n])
