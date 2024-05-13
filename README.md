@@ -38,12 +38,9 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-The dataset used in this project has the following structure.
+The trainable data used in this project has the following structure. ROI are sourced form peri-pancreatic image and segmentation mask.
 ```bash
 -- data
-   |-- raw
-   |   |-- raw
-   |   |-- preprocessed
    |-- ROI
    |   |-- PeripancreaticEdema
    |   |-- Pancreas
