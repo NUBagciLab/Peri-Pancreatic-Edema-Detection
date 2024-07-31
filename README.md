@@ -62,9 +62,12 @@ path/to/your/torchvision/model/redefined_model.py
 ```
 check these models [here](https://github.com/NUBagciLab/Peri-Pancreatic-Edema-Detection/tree/main/models_2d/changed%20source%20code)
 ## Citations
+```bash
 @article{hong2024detection,
   title={Detection of Peri-Pancreatic Edema using Deep Learning and Radiomics Techniques},
   author={Hong, Ziliang and Jha, Debesh and Biswas, Koushik and Zhang, Zheyuan and Velichko, Yury and Yazici, Cemal and Tirkes, Temel and Borhani, Amir and Turkbey, Baris and Medetalibeyoglu, Alpay and others},
   journal={arXiv preprint arXiv:2404.17064},
   year={2024}
 }
+```
+
