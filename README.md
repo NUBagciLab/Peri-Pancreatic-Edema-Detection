@@ -1,6 +1,6 @@
 # Detection of Peri-Pancreatic Edema using Deep Learning and Radiomics Techniques
 
-[![Paper]([https://arxiv.org/pdf/2404.17064](https://arxiv.org/abs/2404.17064#:~:text=Detection%20of%20Peri%2DPancreatic%20Edema%20using%20Deep%20Learning%20and%20Radiomics%20Techniques,-Ziliang%20Hong%2C%20Debesh&text=Identifying%20peri%2Dpancreatic%20edema%20is,in%20pancreatitis%20diagnosis%20and%20management.))
+[![Paper](https://arxiv.org/abs/2404.17064#:~:text=Detection%20of%20Peri%2DPancreatic%20Edema%20using%20Deep%20Learning%20and%20Radiomics%20Techniques,-Ziliang%20Hong%2C%20Debesh&text=Identifying%20peri%2Dpancreatic%20edema%20is,in%20pancreatitis%20diagnosis%20and%20management.)
 [![EMBC]](https://embc.embs.org/2024/)
 </div>
 
