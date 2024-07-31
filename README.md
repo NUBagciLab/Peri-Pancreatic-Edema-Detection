@@ -6,8 +6,8 @@
 [![Dataset]](https://osf.io/wyth7/.)
 [![Paper]](https://arxiv.org/abs/2404.17064#:~:text=Detection%20of%20Peri%2DPancreatic%20Edema%20using%20Deep%20Learning%20and%20Radiomics%20Techniques,-Ziliang%20Hong%2C%20Debesh&text=Identifying%20peri%2Dpancreatic%20edema%20is,in%20pancreatitis%20diagnosis%20and%20management.)
 [![EMBC]](https://embc.embs.org/2024/)
-
 </div>
+
 **Authors:**
 
 -Ziliang Hong<sup>3</sup>, Debesh Jha1<sup>1</sup>, Koushik Biswas<sup>1</sup>, Zheyuan Zhang<sup>1</sup>, Yury Velichko<sup>1</sup>, Cemal Yazici<sup>3</sup>, Temel Tirkes<sup>4</sup>,
